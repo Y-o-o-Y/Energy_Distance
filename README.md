@@ -32,3 +32,7 @@ $$
 
 > 多資產 (標普500, 羅素2000, 那指, 道指)
 <img width="1834" height="799" alt="image" src="https://github.com/user-attachments/assets/86404a33-6032-4ce8-9591-bd06d77e5753" />
+
+> Corr vs Distance Corr (Walmart vs NVDA)
+<img width="1767" height="595" alt="image" src="https://github.com/user-attachments/assets/8ae16a4a-f213-446e-931f-ddd959096b78" />
+
